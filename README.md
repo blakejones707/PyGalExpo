@@ -1,7 +1,6 @@
 # PyGalExpo
-PyGal Exposition 
 # Presentation
-You can find the video presentation [here](https://www.youtube.com/watch?v=N0_N1DweVSo)
+You can find the video presentation [here](https://www.youtube.com/watch?v=nPDomZQ8jI4)
 # Summary of Support Files
 - `pyGalDemo.ipynb`: the notebook containing this tutorial code
 - `coffee-chain.csv`: a small file containing coffee-chain.csv data used in the tutorial code
