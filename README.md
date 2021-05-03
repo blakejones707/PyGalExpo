@@ -11,8 +11,8 @@ You can find the video presentation [here](https://www.youtube.com/watch?v=nPDom
 
 #Installation Steps
 * First install PyGal, and import it as well.
-  * !pip install PyGal
-  * import PyGal
+  * !pip install pygal
+  * import pygal
 * Pandas allows us to import our needed dataset easily.
   * import pandas as pd
   * df = pd.read_csv('coffee-chain.csv')
